@@ -1,6 +1,6 @@
+// @author dany-fera
 package curso_loiane.cursojava.aula15;
 
-import java.lang.invoke.SwitchPoint;
 import java.util.Scanner;
 
 public class ExercicioLista01 {

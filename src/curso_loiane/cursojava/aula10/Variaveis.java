@@ -1,3 +1,4 @@
+// @author dany-fera
 package curso_loiane.cursojava.aula10;
 
 public class Variaveis {
